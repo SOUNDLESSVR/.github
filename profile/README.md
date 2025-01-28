@@ -4,6 +4,7 @@
 
 ### TEAM//MEMBERS
 LEAD//DEV // [AEGISCARR](https://github.com/aegiscarr)
+WORLD//DEV // [CYDIRALIS](https://github.com/cydiralis)
 
 ### NOW//MAKING
 // early prepwork. nothin to see here folks :3
