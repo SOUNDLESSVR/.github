@@ -3,7 +3,7 @@
 # //BECOME//ONE//WITH//SOUND
 
 ### TEAM//MEMBERS
-LEAD//DEV // [AEGISCARR](https://github.com/aegiscarr)
+LEAD//DEV // [AEGISCARR](https://github.com/aegiscarr)\
 WORLD//DEV // [CYDIRALIS](https://github.com/cydiralis)
 
 ### NOW//MAKING
